@@ -15,7 +15,7 @@ Supplemental tables and figures included in the manuscript
 | File | Description|
 |------|------------|
 | `Figure S1 - AGZ map.png` | Map showing the locations of different agro-climatic zones in Europe |
-| `Figure S" - phylogenetic tree.png` | Phlyogenetic tree showing genetic distances between included wheat varieties |
+| `Figure S2" - phylogenetic tree.png` | Phlyogenetic tree showing genetic distances between included wheat varieties |
 | `Table S2.docx` | List of included varieties and their agroclimatic zone of origin |
 | `Table S2.docx` | NCBI BLASTn hits for each of the genes containing GWAS-derived significant markers |
 | `Table S3.docx` | NCBI BLASTp hits for each of the genes containing GWAS-derived significant markers |
